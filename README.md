@@ -4,15 +4,13 @@ This repo accompanies the original paper ([Dado et al., 2020 (biorxiv)](https://
 
 In short, we **visualized** the information in the **brain** while looking at **face images**:
 
-<img src="https://github.com/tdado/HYPER/blob/master/images/hyper.gif" width="620">
-
 ## The experiment
 
 Two participants were looking at images of faces while we recorded their brain responses in the MRI scanner. After that, we trained a model to reconstruct what the participants were seeing from their fMRI recordings **alone**. 
 
 Results are ground-breaking:
 
-![](https://github.com/tdado/HYPER/blob/master/images/small.png)
+![](https://https://github.com/Neural-Coding/HYPER/blob/master/images/small.png)
 
 ## The trick
 
@@ -26,7 +24,7 @@ The faces in the presented photographs **do not really exist**, but are artifici
 This repo contains (demo) code in Jupyter Notebooks to present the approach. All required data to reproduce the results are made available. 
 
 * Python 3.6
-* Python libraries: scikit-learn, scipy, numpy, matplotlib, PIL, os, math, pickle, keras, keras-vggface
+* Python libraries: chainer, cupy, tensorflow, keras, keras-vggface, skimage, sklearn, scipy, numpy, matplotlib, PIL, os, math, pickle
 * [Models (Google Drive)](https://drive.google.com/drive/u/1/folders/1OW0cfnoP8_tZBGWLbpiPPX81QH9pusjv)
 * [Preprocessed dataset (Google Drive)](https://drive.google.com/drive/u/1/folders/1xmlusRDS3bTsB78_7RA__RUYyCcAS1jF)
 * [PGGAN model for face generation (Github)](https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU)
