@@ -10,7 +10,7 @@ Two participants were looking at images of faces while we recorded their brain r
 
 Results are ground-breaking:
 
-![](https://https://github.com/Neural-Coding/HYPER/blob/master/images/small.png)
+![](https://github.com/Neural-Coding/HYPER/blob/master/images/small.png)
 
 ## The trick
 
