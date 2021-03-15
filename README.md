@@ -4,9 +4,8 @@ This repo accompanies the original paper "Hyperrealistic neural decoding: Recons
 
 ## The experiment
 
-Two participants were looking at images of faces while we recorded their brain responses in the MRI scanner. After that, we trained a model to reconstruct what the participants were seeing from their fMRI recordings **alone**. 
+Two participants were looking at images of faces while we recorded their brain responses in the MRI scanner. After that, we trained a model to reconstruct what the participants were seeing from their fMRI recordings **alone**.
 
-Results were ground-breaking: 
 <br/>
 <br/>
 <br/>
