@@ -23,18 +23,7 @@ The faces in the presented photographs **do not really exist**, but are artifici
 
 ## Required components
 
-This repo contains (demo) code in Jupyter Notebooks to present the approach. All required data to reproduce the results are made available. 
-
-* Python 3.6
-* Python libraries: chainer, cupy, tensorflow, keras, keras-vggface, skimage, sklearn, scipy, numpy, matplotlib, PIL, os, math, pickle
-* [Models (Google Drive)](https://drive.google.com/drive/u/1/folders/1OW0cfnoP8_tZBGWLbpiPPX81QH9pusjv)
-* [Preprocessed dataset (Google Drive)](https://drive.google.com/drive/u/1/folders/1xmlusRDS3bTsB78_7RA__RUYyCcAS1jF)
-* [PGGAN model for face generation (Github)](https://drive.google.com/drive/folders/15hvzxt_XxuokSmj0uO4xxMTMWVc0cIMU)
-* [System requirements for PGGAN (Github)](https://github.com/tkarras/progressive_growing_of_gans)
-(incl. [this tfutil library](https://raw.githubusercontent.com/tkarras/progressive_growing_of_gans/master/tfutil.py))
-* [5 decision boundaries (Github)](https://github.com/genforce/interfacegan/tree/master/boundaries) disentangled by conditional manipulation
-
-Preprocessing of the fMRI measurements (step 1), creating the final dataset of latents and brain data (step 2), test stimuli and reconstructions can be found on [Google Drive](https://drive.google.com/drive/u/1/folders/1NEblHtlRFvUyD5CA2sqSVfcGlfJBqw_T).
+This repo contains (demo) code in Jupyter Notebooks to present the approach. All required data to reproduce the results, preprocessing steps and test set images (stimuli and reconstructions) are made available on [Google Drive](https://drive.google.com/drive/u/1/folders/1NEblHtlRFvUyD5CA2sqSVfcGlfJBqw_T).
 
 
 ## A look into the future 🚀
