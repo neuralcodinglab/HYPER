@@ -25,10 +25,8 @@ The faces in the presented photographs **do not really exist**, but are artifici
 This repo contains (demo) code in Jupyter Notebooks to present the approach. All required data to reproduce the results, preprocessing steps and test set images (stimuli and reconstructions) are made available on [Google Drive](https://drive.google.com/drive/u/1/folders/1NEblHtlRFvUyD5CA2sqSVfcGlfJBqw_T).
 
 
-## A look into the future 🚀
+## Conclusion 🚀
 
-For the first time, we have exploited the latent space of a generative model in neural decoding during perception of synthetic face photographs. It should however be noted that the results of this study are still valid reconstructions of visual perception regardless of the nature of the stimuli themselves. Considering the speed of progress in the field of generative modeling, this framework will likely result in even more impressive reconstructions of perception. 
+For the first time, we have exploited the latent space of a generative model in neural decoding during perception of synthetic face photographs. It should be noted that the results of this study are valid reconstructions of visual perception regardless of the nature of the stimuli themselves. Considering the speed of progress in the field of generative modeling, this framework will likely result in even more impressive reconstructions of perception. 
 
 The sky is the limit.
-
-
