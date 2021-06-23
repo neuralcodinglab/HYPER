@@ -28,5 +28,3 @@ This repo contains (demo) code in Jupyter Notebooks to present the approach. All
 ## Conclusion 🚀
 
 For the first time, we have exploited the latent space of a generative model in neural decoding during perception of synthetic face photographs. It should be noted that the results of this study are valid reconstructions of visual perception regardless of the nature of the stimuli themselves. Considering the speed of progress in the field of generative modeling, this framework will likely result in even more impressive reconstructions of perception. 
-
-The sky is the limit.
