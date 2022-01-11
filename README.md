@@ -1,6 +1,8 @@
 # HYPER (brain decoding framework) 🧠 + 🤖 + 📖 = ✨ 
 
-This repo accompanies the original paper "Hyperrealistic neural decoding: Reconstructing faces from fMRI activations via the GAN latent space" ([Dado et al., 2020 (biorxiv)](https://www.biorxiv.org/content/10.1101/2020.07.01.168849v3)). This study introduces a novel experimental paradigm that uses synthesized yet highly naturalistic stimuli with a priori known feature representations together with an implementation thereof for HYperrealistic reconstruction of PERception (HYPER) of faces from brain recordings. The goal was to reveal what information was present in the recorded brain responses by reconstructing the original faces presented to the participants.
+This repo accompanies the original paper "Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space" ([Dado et al., 2022](https://www.nature.com/articles/s41598-021-03938-w)). This study introduces a novel experimental paradigm that uses synthesized yet highly naturalistic stimuli with a priori known feature representations together with an implementation thereof for HYperrealistic reconstruction of PERception (HYPER) of faces from brain recordings. The goal was to reveal what information was present in the recorded brain responses by reconstructing the original faces presented to the participants.
+
+[Click here](https://medium.com/neural-coding-lab/neural-decoding-w-synthesized-reality-5eeb476f399) for the blog post / tutorial.
 
 ## The experiment
 
